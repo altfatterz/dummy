@@ -2,6 +2,3 @@ first line
 second line
 third line
 fourth line
-123
-234
-456
